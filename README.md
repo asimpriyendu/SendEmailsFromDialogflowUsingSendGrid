@@ -12,7 +12,7 @@ Email Enabled Agent in DialogFlow usinf the Web (SMTP) api of SendGrid.
 
 4. Paste the API generated in your index.js file in fulfilment of your agent. (also enable webhook call for this intent).
 
-5. In www.console.firebase.google.com but the 'blaze' plan and you're good to go
+5. In www.console.firebase.google.com buy the 'blaze' plan and you're good to go
 
 6. try to run it and see if it works
 
@@ -21,4 +21,4 @@ Email Enabled Agent in DialogFlow usinf the Web (SMTP) api of SendGrid.
 
 8. Try sending Emails now.
 
-9. in SendGrip, integrate it.
+9. Back at SendGrip, integrate it.
